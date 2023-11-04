@@ -601,7 +601,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   width: 100%;
-  height: auto;
+  height: 100%;
   align-content: center;
 }
 
@@ -10880,7 +10880,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #997800;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10928,7 +10928,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    background-color: #997800;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
